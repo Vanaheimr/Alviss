@@ -1,6 +1,6 @@
 ﻿/*
- * Copyright (c) 2010-2012 Achim 'ahzf' Friedland <achim@graph-database.org>
- * This file is part of Illias <http://www.github.com/ahzf/Illias>
+ * Copyright (c) 2010-2013 Achim 'ahzf' Friedland <achim@graph-database.org>
+ * This file is part of Alviss <http://www.github.com/Vanaheimr/Alviss>
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -24,7 +24,7 @@ using de.ahzf.Illias.Commons.Transactions;
 
 #endregion
 
-namespace de.ahzf.Illias
+namespace de.ahzf.Vanaheimr.Alviss
 {
 
     /// <summary>
