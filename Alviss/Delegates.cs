@@ -21,7 +21,7 @@ using System;
 
 #endregion
 
-namespace de.ahzf.Vanaheimr.Alviss
+namespace eu.Vanaheimr.Alviss
 {
 
     /// <summary>

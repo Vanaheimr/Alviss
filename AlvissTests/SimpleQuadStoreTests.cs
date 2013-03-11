@@ -25,7 +25,7 @@ using NUnit.Framework;
 
 #endregion
 
-namespace de.ahzf.Vanaheimr.Alviss.UnitTests
+namespace eu.Vanaheimr.Alviss.UnitTests
 {
 
     /// <summary>
